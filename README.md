@@ -2,6 +2,7 @@
 <br>
 Welcome to this repository! This space serves as a central hub for my lab implementations, code samples, and practical exercises for the Data Structures course.
 <br>
+<h1>📖 Contents</h1>
 <h1>📁 Repository Structure</h1>
 
 ```text
