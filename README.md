@@ -13,3 +13,9 @@ dsa-c-lab/
 ├── 05_Linked lists/
 ├── 06_Stack/
 └── 07_Queue/
+```
+<h1>🛠️ Languages Used</h1>
+<ul>
+  <li>C Language</li>
+</ul>
+
