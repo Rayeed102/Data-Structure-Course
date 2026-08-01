@@ -30,6 +30,6 @@ dsa-c-lab/
 </ol>
 
 <h1>✍️ Author</h1>
-<h2>Mushfiqur Rahman Rayeed</h2>
-<h3>Department of Computer Science and Engineering, Sylhet Engineering College</h3>
+<h3>Mushfiqur Rahman Rayeed</h3>
+Department of Computer Science and Engineering, Sylhet Engineering College
 
