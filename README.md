@@ -4,16 +4,12 @@ Welcome to this repository! This space serves as a central hub for my lab implem
 <br>
 <h1>📁 Repository Structure</h1>
 
-
----
-
-
-
 ```text
 dsa-c-lab/
-├── 01_Arrays_and_Strings/
-├── 02_Pointers_and_Memory/
-├── 03_Stacks_and_Queues/
-├── 04_Linked_Lists/
-├── 05_Searching_Algorithms/
-└── Lab_Assignments/
+├── 01_Array/
+├── 02_String/
+├── 03_Recursion/
+├── 04_Searching/
+├── 05_Linked lists/
+├── 06_Stack/
+└── 07_Queue/
